@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.txt
+
+# Cached files
+faiss_cache/
