@@ -1,0 +1,11 @@
+langchain==0.3.6 
+langchain-huggingface==0.1.0 
+langchain-community==0.3.4 
+streamlit==1.39.0 
+faiss-cpu==1.8.0 
+sentence-transformers==3.1.1 
+python-dotenv==1.0.1 
+huggingface_hub==0.23.5 
+newspaper3k==0.2.8 
+wikipedia-api==0.7.1 
+lxml_html_clean==0.2.2
