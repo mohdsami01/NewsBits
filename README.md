@@ -131,22 +131,22 @@ GitHub Repository Link
 
 GitHub Repository: [https://github.com/mohdsami01/NewsBits]
 
-Deployment/Demo Link
+Deployment/Demo Link: [https://newsbits-6q0z.onrender.com/]
 
-Demo Link: [https://newsbits-6q0z.onrender.com/]
+
 
 # ***----- DEMO QUE TO ASK-------***
 
 
-# // 1-> What are the main topics covered on the BBC News homepage today?
-# // 2-> What is the top story on the BBC News website?
-# // 3-> Are there any technology-related news stories mentioned?
-# // 4-> What does the BBC News page say about climate change today?
+1-> What are the main topics covered on the BBC News homepage today?
+2-> What is the top story on the BBC News website?
+3-> Are there any technology-related news stories mentioned?
+4-> What does the BBC News page say about climate change today?
 
 # **-- FACT CHECK QUESTION----**
 
-# // 1-> Fact-check: Is climate change primarily caused by human activity?
-# // 2-> Fact-check: Is the United Nations involved in global peacekeeping?
+1-> Fact-check: Is climate change primarily caused by human activity?
+2-> Fact-check: Is the United Nations involved in global peacekeeping?
 
 # ----***DEMO LINK TO PASTE ON THE STREAMLIT APPLICATION BEFORE ASKING QUE****----
 // [https://www.bbc.com]
