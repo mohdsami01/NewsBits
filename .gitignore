@@ -8,7 +8,7 @@ __pycache__/
 
 # Temporary files
 *.tmp
-*.txt
+
 
 # Cached files
 faiss_cache/
